@@ -137,9 +137,7 @@ Sample_Superstore_PowerBI/
 │
 ├── Screenshots/
 │   ├── Dashboard_Overview.png
-│   ├── Regional_Insights.png
-│   ├── Product_Performance.png
-│   └── Customer_Segments.png
+│   
 │
 └── README.md
 ```
